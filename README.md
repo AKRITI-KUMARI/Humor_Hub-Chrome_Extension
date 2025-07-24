@@ -12,17 +12,6 @@ Welcome to **Humor Hub**, a lightweight Chrome extension that brightens your bro
 
 ---
 
-## 🚀 Installation (Manual)
-1. Download the `.zip` file from this repo
-2. Unzip the folder
-3. Go to `chrome://extensions` in your Chrome browser
-4. Toggle on **Developer Mode**
-5. Click **Load unpacked** and select the extension folder
-
-Boom — you're plugged into laughter. 😄
-
----
-
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
 - [Free Joke API](https://official-joke-api.appspot.com/jokes/random)
